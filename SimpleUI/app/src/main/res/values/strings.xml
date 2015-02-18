@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple UI Diney Wankhede</string>
+    <string name="button1"> Update TextView 1</string>
+    <string name="button2"> Update TextView 2</string>
+    <string name="button3"> Update Text Views 1 and 2</string>
+    <string name="textView1"> FIRST VIEW </string>
+    <string name="textView2"> SECOND VIEW </string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
