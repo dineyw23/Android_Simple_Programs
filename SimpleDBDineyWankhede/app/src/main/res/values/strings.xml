@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleDBDineyWankhede</string>
+    <string name="edit1">Please Enter Text Here</string>
+    <string name="action_settings">Settings</string>
+    <string name="get1">GET</string>
+    <string name="add1">ADD</string>
+    <string name="remove1">REMOVE</string>
+</resources>
+
